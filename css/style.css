@@ -1,0 +1,42 @@
+/*common start*/
+body{
+    font-family: 'popins',sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #000000;
+}
+/*common end*/
+/*header start*/
+header{
+    background-color: #ddf3dd;
+}
+
+.menu ul li a{
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000 !important;
+    line-height:  24px;
+    padding:0 20px !important;
+
+}
+.menu ul li a:hover{
+    color: #fd511a !important
+}
+.btn-common{
+    margin-left: 10px;
+    font-family:'Roboto' sans-serif;
+    color: #ffffff;
+    line-height: 19px;
+    background-color: #21b573;
+    border-redius:33px;
+    -webkit-border-redius:33px;
+    -moz-border-redius; 33px;
+    -ms-border-radius:33px;
+    -o-border-redius:33px;
+}
+.btnh{
+    width: 104px;
+    height: 45px;
+}
+
+/*header end*/
